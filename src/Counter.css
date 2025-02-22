@@ -1,0 +1,11 @@
+.buttonIncre{
+ width:300px;
+ background-color: rgb(120, 202, 176); 
+ margin-left:40%;
+ margin-top:5% ;
+ border-radius:50px;
+}
+.counter-display{
+font-size:20px;
+}
+

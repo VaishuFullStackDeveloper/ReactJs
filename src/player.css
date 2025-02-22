@@ -1,0 +1,52 @@
+.team{ 
+  width: 90vw;
+  height: 90vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  text-align: center;
+  border: solid 2px black;
+  background-image: url(./assets/bg-stadium.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 80px;
+  gap: 40px;
+  
+}
+.playersOne{
+  width: 50vw;
+  height:90vh;
+ display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  border: solid 4px black;
+  margin-top: 20px;
+
+}
+.playersTwo{
+  width: 50vw;
+  height: 90vh;
+   display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  border: solid 4px black;
+  margin-top: 20px;
+  
+}
+
+.h1{
+    font-size: 50px;
+    color: #ccc;
+    margin-left: 500px;
+}
+.h2{
+  text-align: center;
+  font-size: 20px;
+}
+.button{
+  width: 100px;
+  height: 100px;
+}
+
+

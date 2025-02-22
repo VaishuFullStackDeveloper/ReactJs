@@ -1,0 +1,25 @@
+.containers{
+    width: 20vw;
+    height: 60vh;
+    display: flex;
+    flex-direction:column;
+    margin-left: 40%;
+    margin-top:100px;
+}
+button{
+    height:40px;
+    width: 80px;
+    justify-content: space-around;
+    margin-left: 20px;
+    margin-top: 20px;
+    background-color:lightslategrey;
+    border: solid 2px;
+}
+.btn{
+    display: flex;
+    flex-direction:row;
+    margin-left: 20px;
+ 
+
+}
+

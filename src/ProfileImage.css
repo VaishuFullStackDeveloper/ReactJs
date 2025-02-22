@@ -1,0 +1,22 @@
+/* .div-Image{
+display: flex;
+align-items: center;
+justify-content: center;
+margin-top: 40px;
+}
+.Image-Gray{
+  height: 30;  
+} */
+.profile {
+    height: 300px;
+    width: 300px;  
+
+}
+
+.profile-img {
+    height: 250px;
+    width: 400px;
+   margin-left: 600px;
+   
+   
+}

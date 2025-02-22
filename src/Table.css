@@ -1,0 +1,27 @@
+.table{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    background-color: rgb(208, 153, 153);
+    width: 100vw;
+    height: 100vh;
+    gap: 20px;
+
+}
+.row{
+    display: flex;
+    flex-direction:row ;
+    text-align: center;
+    justify-content: center;
+    gap: 20px;
+}
+.cell-button{
+    width: 4vw;
+    height: 4vh;
+}
+.multi{
+font-size: 15px;
+
+   
+}

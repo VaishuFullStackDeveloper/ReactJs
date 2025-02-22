@@ -1,0 +1,41 @@
+/* Header section */
+.nav-bar {
+    width: 100vw;
+    display: flex;
+    flex-direction: row;
+}
+
+.nav-links {
+    width: 100vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    gap: 50px;
+    background-color: #09122C;
+    color: white;
+}
+
+/* About section */
+.Container-two {
+    width: 100vw;
+    height: 60vh;
+    display: flex;
+    flex-direction: row;
+}
+
+.logo {
+    width: 40vw;
+    background-color: #09122C;
+
+}
+
+.Info {
+    width: 60vw;
+    background-color: #09122C;
+}
+
+.img {
+    border-radius: 100%;
+    margin-left: 40px;
+}
+/* skill section */

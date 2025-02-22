@@ -1,0 +1,11 @@
+ body{
+  height: 7vh;
+  width: 70vw;
+  background-repeat: no-repeat;
+  display: flex; 
+  justify-content: space-around; 
+  padding: 40px; 
+  margin-top: 250px;
+  background-color:lightslategray;
+margin-left: 170px;
+ } 
